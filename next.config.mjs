@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-const REPO_BASE = process.env.NEXT_PUBLIC_BASE_PATH || '/lynis-analyzer';
+const REPO_BASE = process.env.NEXT_PUBLIC_BASE_PATH || '/lynis-parser';
 
 const nextConfig = {
   reactStrictMode: true,
